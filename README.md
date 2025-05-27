@@ -57,9 +57,25 @@ If you find this repository useful, please give it a star 👉 ⭐
 ### Programming
 
 
-
 ### AI and Machine Learning
-+ [DeepLearning.AI](https://www.deeplearning.ai/courses/) These are short courses and cover a wide range of AI topics. Explore the beginner courses first before the other steps as it will give you a taste of what the field is about and like. Especially doing the **AI for Beginners** course: https://www.deeplearning.ai/short-courses/ai-python-for-beginners/
++ [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/) An accessible and interactive article by The Finanical Times on one of the biggest breakthroughs in AI, the Transformer.
+
++ [DeepLearning.AI](https://www.deeplearning.ai/courses/) These are short courses and cover a wide range of AI topics. Explore the beginner courses first before the other steps as it will give you a taste of what the field is about and like. Especially the **AI for Beginners** course: https://www.deeplearning.ai/short-courses/ai-python-for-beginners/
+    [![Video](https://img.shields.io/badge/Video-red)]
+
+
++ [https://ocdevel.com/mlg](https://ocdevel.com/mlg) A great podcast series which builds up from zero to machine learning engineer topics. It provides lots of advice about starting out, what certain things means and routes into the field and lots of resources are provided.
+    [![Audio](https://img.shields.io/badge/Audio-brightgreen)]
+    
+
++ [Machine Learning by StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF).
+
++ [The 100 Page Machine Learning Book](https://themlbook.com/).
+    [![Text](https://img.shields.io/badge/Text-blue)]
+
++ [The 100 Page Language Models Book](https://www.thelmbook.com/).
+
++ 
 
 ### Inclusive Foundations
 ### Creative Technologies
