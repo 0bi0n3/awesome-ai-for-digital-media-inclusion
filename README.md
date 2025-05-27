@@ -74,9 +74,16 @@ If you find this repository useful, please give it a star 👉 ⭐
     ![Video](https://img.shields.io/badge/Video-red)
 
 
-+ [https://ocdevel.com/mlg](https://ocdevel.com/mlg) A great podcast series which builds up from zero to machine learning engineer topics. It provides lots of advice about starting out, what certain things means and routes into the field and lots of resources are provided.
++ [Machine Learning Guide](https://ocdevel.com/mlg) A great podcast series which builds up from zero to machine learning engineer topics. It provides lots of advice about starting out, what certain things means and routes into the field and lots of resources are provided.
 
     ![Audio](https://img.shields.io/badge/Audio-brightgreen)
+
++ [Machine Learning Specialisation by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction) The "famous" course series by Andrew Ng. The video content is free to access but the programming practice labs in Python you have to pay for.
+![Text](https://img.shields.io/badge/Text-blue)
+![Video](https://img.shields.io/badge/Video-red)
+![Audio](https://img.shields.io/badge/Audio-brightgreen)
+![Paid](https://img.shields.io/badge/Paid-orange)
+![Free](https://img.shields.io/badge/Free-yellow)
     
 
 + [Machine Learning by StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF).
