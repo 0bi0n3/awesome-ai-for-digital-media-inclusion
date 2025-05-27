@@ -60,7 +60,7 @@ If you find this repository useful, please give it a star 👉 ⭐
 
 ### AI and Machine Learning
 + [DeepLearning.AI](https://www.deeplearning.ai/courses/) These are short courses and cover a wide range of AI topics. Explore the beginner courses first before the other steps as it will give you a taste of what the field is about and like. Especially doing the **AI for Beginners** course.
-    [![Static Badge](https://img.shields.io/badge/Recommended-brightgreen)(https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)]
+    [![Static Badge](https://img.shields.io/badge/Recommended-brightgreen)](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
 
 ### Inclusive Foundations
 ### Creative Technologies
