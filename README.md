@@ -110,5 +110,8 @@ If you find this repository useful, please give it a star 👉 ⭐
 
 
 ### Inclusive Foundations
++ Currently awaiting contributions!
 ### Creative Technologies
++ Currently awaiting contributions!
 ### User-Centred Design
++ Currently awaiting contributions!
