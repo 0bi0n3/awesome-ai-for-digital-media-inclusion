@@ -56,7 +56,11 @@ If you find this repository useful, please give it a star 👉 ⭐
 ## Fundamentals
 ### Programming
 
+
+
 ### AI and Machine Learning
+[DeepLearning.AI](https://www.deeplearning.ai/courses/) These are short courses and cover a wide range of AI topics. Explore the beginner courses first before the other steps as it will give you a taste of what the field is about and like. Especially doing the **AI for Beginners** course. 
+
 ### Inclusive Foundations
 ### Creative Technologies
 ### User-Centred Design
