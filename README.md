@@ -76,6 +76,12 @@ If you find this repository useful, please give it a star 👉 ⭐
 ![Video](https://img.shields.io/badge/Video-red)
 ![Free](https://img.shields.io/badge/Free-yellow)
 
++ [5-Day Gen AI Intensive Course with Google Learn Guide](https://www.kaggle.com/learn-guide/5-day-genai) This course needs a little bit of Python experience to get the most out of it, but still really handy to get a "feel" for generative AI and prompting models.
+![Text](https://img.shields.io/badge/Text-blue)
+![Video](https://img.shields.io/badge/Video-red)
+![Audio](https://img.shields.io/badge/Audio-brightgreen)
+![Free](https://img.shields.io/badge/Free-yellow)
+
 
 + [Machine Learning Guide](https://ocdevel.com/mlg) A great podcast series which builds up from zero to machine learning engineer topics. It provides lots of advice about starting out, what certain things means and routes into the field and lots of resources are provided. 
 ![Audio](https://img.shields.io/badge/Audio-brightgreen)
@@ -90,7 +96,7 @@ If you find this repository useful, please give it a star 👉 ⭐
 ![Free](https://img.shields.io/badge/Free-yellow)
 
 
-+ [Machine Learning by StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF).
++ [Machine Learning by StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) ![Video](https://img.shields.io/badge/Video-red) ![Free](https://img.shields.io/badge/Free-yellow)
 
 
 + [The 100 Page Machine Learning Book](https://themlbook.com/)
