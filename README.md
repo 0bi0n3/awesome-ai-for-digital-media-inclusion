@@ -19,6 +19,14 @@ If you find this repository useful, please give it a star 👉 ⭐
 
 ---
 
+***Keys***
+![Text](https://img.shields.io/badge/Text-blue) = text-based or has text option.
+![Video](https://img.shields.io/badge/Video-red) = video-based or has video option.
+![Audio](https://img.shields.io/badge/Audio-brightgreen) = audio-only or has audio-only option.
+![Paper](https://img.shields.io/badge/Paper-purple) = published/pre-print available.
+![Paid](https://img.shields.io/badge/Paid-orange) = paid for/has paywall.
+![Free](https://img.shields.io/badge/Free-yellow) = free access.
+
 **Quick Navigation**:
 - [Fundamentals](#fundamentals)
 - [Research Methods](#research-methods)
@@ -66,15 +74,19 @@ If you find this repository useful, please give it a star 👉 ⭐
 
 
 + [https://ocdevel.com/mlg](https://ocdevel.com/mlg) A great podcast series which builds up from zero to machine learning engineer topics. It provides lots of advice about starting out, what certain things means and routes into the field and lots of resources are provided.
-    [![Audio](https://img.shields.io/badge/Audio-brightgreen)]
+
+    ![Audio](https://img.shields.io/badge/Audio-brightgreen)
     
 
 + [Machine Learning by StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF).
 
 + [The 100 Page Machine Learning Book](https://themlbook.com/).
-    [![Text](https://img.shields.io/badge/Text-blue)]
+    
+    ![Text](https://img.shields.io/badge/Text-blue)
 
 + [The 100 Page Language Models Book](https://www.thelmbook.com/).
+
+    ![Text](https://img.shields.io/badge/Text-blue)
 
 + 
 
