@@ -67,6 +67,10 @@ If you find this repository useful, please give it a star 👉 ⭐
 
 
 ### AI and Machine Learning
++ [Artificial Intelligence by CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b) A very simple and basic-level introduction to AI (explain it to my like I'm six). If you've not really dived into AI before, definitely watch this playlist!!!
+![Video](https://img.shields.io/badge/Video-red)
+![Free](https://img.shields.io/badge/Free-yellow)
+
 + [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/) An accessible and interactive article by The Finanical Times on one of the biggest breakthroughs in AI, the Transformer.
 ![Text](https://img.shields.io/badge/Text-blue)
 ![Free](https://img.shields.io/badge/Free-yellow)
