@@ -62,7 +62,7 @@ If you find this repository useful, please give it a star 👉 ⭐
 
 + [DeepLearning.AI](https://www.deeplearning.ai/courses/) These are short courses and cover a wide range of AI topics. Explore the beginner courses first before the other steps as it will give you a taste of what the field is about and like. Especially the **AI for Beginners** course: https://www.deeplearning.ai/short-courses/ai-python-for-beginners/
 
-    [Video](https://img.shields.io/badge/Video-red)
+    [!(https://img.shields.io/badge/Video-red)]
 
 
 + [https://ocdevel.com/mlg](https://ocdevel.com/mlg) A great podcast series which builds up from zero to machine learning engineer topics. It provides lots of advice about starting out, what certain things means and routes into the field and lots of resources are provided.
