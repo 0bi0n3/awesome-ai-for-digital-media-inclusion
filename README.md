@@ -20,12 +20,13 @@ If you find this repository useful, please give it a star 👉 ⭐
 ---
 
 ***Keys***
-![Text](https://img.shields.io/badge/Text-blue) = text-based or has text option.
-![Video](https://img.shields.io/badge/Video-red) = video-based or has video option.
-![Audio](https://img.shields.io/badge/Audio-brightgreen) = audio-only or has audio-only option.
-![Paper](https://img.shields.io/badge/Paper-purple) = published/pre-print available.
-![Paid](https://img.shields.io/badge/Paid-orange) = paid for/has paywall.
-![Free](https://img.shields.io/badge/Free-yellow) = free access.
+
++ ![Text](https://img.shields.io/badge/Text-blue) = text-based or has text option.
++ ![Video](https://img.shields.io/badge/Video-red) = video-based or has video option.
++ ![Audio](https://img.shields.io/badge/Audio-brightgreen) = audio-only or has audio-only option.
++ ![Paper](https://img.shields.io/badge/Paper-purple) = published/pre-print available.
++ ![Paid](https://img.shields.io/badge/Paid-orange) = paid for/has paywall.
++ ![Free](https://img.shields.io/badge/Free-yellow) = free access.
 
 **Quick Navigation**:
 - [Fundamentals](#fundamentals)
