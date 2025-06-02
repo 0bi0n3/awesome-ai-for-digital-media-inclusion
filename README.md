@@ -80,6 +80,14 @@ If you find this repository useful, please give it a star 👉 ⭐
 ![Text](https://img.shields.io/badge/Text-blue)
 ![Free](https://img.shields.io/badge/Free-yellow)
 
++ [GitHub Tutorials](https://docs.github.com/en/get-started/start-your-journey/hello-world) GitHub is where you will be finding, reading, contributing, downloading and using for your AI/ML research and group projects. It's worth learning the basics early on!
+![Text](https://img.shields.io/badge/Text-blue)
+![Free](https://img.shields.io/badge/Free-yellow)
+
++ [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org) Alternative video version for learning GitHub basics. Don't let the length of the video scare you - take it one step at a time, it's worth it!
+![Video](https://img.shields.io/badge/Video-red)
+![Free](https://img.shields.io/badge/Free-yellow)
+
 + Awaiting more contributions!
 
 
