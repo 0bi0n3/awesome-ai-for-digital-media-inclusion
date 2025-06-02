@@ -46,7 +46,6 @@ If you find this repository useful, please give it a star 👉 ⭐
     - [Inclusive Foundations](#inclusive-foundations)
     - [Creative Technologies](#creative-technologies)
     - [PhD-Level Research](#phd-level-research)
-    - [User-Centred Design](#user-centred-design)
 - [Research Methods](#research-methods)
 - Awaiting contributions!
 - [Inclusion](#inclusion)
@@ -64,12 +63,30 @@ If you find this repository useful, please give it a star 👉 ⭐
 
 ## Fundamentals
 ### Programming
++ [CS50: Computer Science Courses and Programs from Harvard](https://www.edx.org/cs50) If you have never programmed before, are new to computer science, or just want something to go back to the absolute basics, this is the online course for it. Hugely famous amongst the online CS community and majority of the videos are freely available both on the platform and also YouTube. The interactive practice sessions are also (usually) free, but certification is not.
+![Video](https://img.shields.io/badge/Video-red)
+![Paid](https://img.shields.io/badge/Paid-orange)
+![Free](https://img.shields.io/badge/Free-yellow)
 
+
++ [HyperSkill](https://hyperskill.org/courses) An interactive programming platform with practice streaks, online code editor and mobile app. Good for on the go practice and has Python and AI specific learning paths. Has a premium version but at the time of writing the free tier is more than adequate to get basic programming skill practice.
+![Text](https://img.shields.io/badge/Text-blue)
+![Paid](https://img.shields.io/badge/Paid-orange)
+![Free](https://img.shields.io/badge/Free-yellow)
+
+
+[PyTorch Tutorials](https://docs.pytorch.org/tutorials/) PyTorch is the main framework used for AI/ML in research. The official tutorial series is good and worth spending the time going through once you've done some basic Python practice. Check out the YouTube playlist aswell! This resource is both in the ML and Programming resource lists in this repo.
+![Video](https://img.shields.io/badge/Video-red)
+![Text](https://img.shields.io/badge/Text-blue)
+![Free](https://img.shields.io/badge/Free-yellow)
+
++ Awaiting more contributions!
 
 ### AI and Machine Learning
 + [Artificial Intelligence by CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b) A very simple and basic-level introduction to AI (explain it to my like I'm six). If you've not really dived into AI before, definitely watch this playlist!!!
 ![Video](https://img.shields.io/badge/Video-red)
 ![Free](https://img.shields.io/badge/Free-yellow)
+
 
 + [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/) An accessible and interactive article by The Finanical Times on one of the biggest breakthroughs in AI, the Transformer.
 ![Text](https://img.shields.io/badge/Text-blue)
@@ -79,6 +96,7 @@ If you find this repository useful, please give it a star 👉 ⭐
 + [DeepLearning.AI](https://www.deeplearning.ai/courses/) These are short courses and cover a wide range of AI topics. Explore the beginner courses first before the other steps as it will give you a taste of what the field is about and like. Especially the **AI for Beginners** course: https://www.deeplearning.ai/short-courses/ai-python-for-beginners/ 
 ![Video](https://img.shields.io/badge/Video-red)
 ![Free](https://img.shields.io/badge/Free-yellow)
+
 
 + [5-Day Gen AI Intensive Course with Google Learn Guide](https://www.kaggle.com/learn-guide/5-day-genai) This course needs a little bit of Python experience to get the most out of it, but still really handy to get a "feel" for generative AI and prompting models.
 ![Text](https://img.shields.io/badge/Text-blue)
@@ -100,22 +118,102 @@ If you find this repository useful, please give it a star 👉 ⭐
 ![Free](https://img.shields.io/badge/Free-yellow)
 
 
-+ [Machine Learning by StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) ![Video](https://img.shields.io/badge/Video-red) ![Free](https://img.shields.io/badge/Free-yellow)
++ [Machine Learning by StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) A widely popular online video series which is light hearted but still goes through core machine learning and data science topics. Very visual and easy to watch.
+![Video](https://img.shields.io/badge/Video-red) 
+![Free](https://img.shields.io/badge/Free-yellow)
 
 
-+ [The 100 Page Machine Learning Book](https://themlbook.com/)
++ [The 100 Page Machine Learning Book](https://themlbook.com/) An excellent, concise, overview of machine learning. The core principles, maths, some code, methodologies and applications. Useful to have in the library to quickly reference or refresh.
 ![Text](https://img.shields.io/badge/Text-blue)
 ![Paid](https://img.shields.io/badge/Paid-orange)
 
 
-+ [The 100 Page Language Models Book](https://www.thelmbook.com/)
++ [The 100 Page Language Models Book](https://www.thelmbook.com/) Following on from the previous book (The 100 Page ML Book), the same author uses the same approach and format for tackling language models.
 ![Text](https://img.shields.io/badge/Text-blue)
 ![Paid](https://img.shields.io/badge/Paid-orange)
+
+
+[PyTorch Tutorials](https://docs.pytorch.org/tutorials/) PyTorch is the main framework used for AI/ML in research. The official tutorial series is good and worth spending the time going through once you've done some basic Python practice. Check out the YouTube playlist aswell! This resource is both in the ML and Programming resource lists in this repo.
+![Video](https://img.shields.io/badge/Video-red)
+![Text](https://img.shields.io/badge/Text-blue)
+![Free](https://img.shields.io/badge/Free-yellow)
+
+
++ Awaiting more contributions!
+
+
+### Mathematics
++ [Khan Academy](https://www.khanacademy.org/) Regardless of your mathematical experience, Khan Academy is a renowned platform for its bitesize and easy to dip into way of teaching maths. Everything from basic addition up to linear algebra, vectors, matrices and advanced calculus. If you think you want to brush up some skills or learn for the first time, it's a definite bookmark. The mobile app is handy for practice on the go too!
+![Video](https://img.shields.io/badge/Video-red) 
+![Free](https://img.shields.io/badge/Free-yellow)
+
+
++ [Why Machines Learn by Anil Ananthaswamy: The Elegant Maths Behind Modern AI](https://www.penguin.co.uk/books/446849/why-machines-learn-by-ananthaswamy-anil/9780241586488) An amazing book which explains the how and why behind machine learning mathematics. It builds up knowledge from the ground up, not requiring a huge amount of priro mathematical experience. The information is provided both with compelling visuals and also some storytelling behind the resultant maths in ML.
+![Text](https://img.shields.io/badge/Text-blue)
+![Audio](https://img.shields.io/badge/Audio-brightgreen)
+![Paid](https://img.shields.io/badge/Paid-orange)
+
+
++ [Calculus Made Easy by Silvanus Thompson](https://calculusmadeeasy.org/) Alternative approach and methodology of thinking about calculus. Very good worked examples and visualisations of mathematics. Not all examples relevant to AI/ML but still helpful. Digital version free.
+![Text](https://img.shields.io/badge/Text-blue)
+![Free](https://img.shields.io/badge/Free-yellow)
+![Paid](https://img.shields.io/badge/Paid-orange)
+
+
++ [Math, Better Explained](https://betterexplained.com/) Another maths explainer with a very approachable style. Not much free content though and will require some foundational algebra experience to get the most out of it.
+![Text](https://img.shields.io/badge/Text-blue)
+![Video](https://img.shields.io/badge/Video-red) 
+![Paid](https://img.shields.io/badge/Paid-orange)
+
+
++ Awaiting more contributions!
 
 
 ### Inclusive Foundations
-+ Currently awaiting contributions!
++ [University of Cambridge: Inclusive Design Toolkit](https://www.inclusivedesigntoolkit.com/) _"The design of mainstream products and/or services that are accessible to, and usable by, as many people as reasonably possible ... without the need for special adaptation or specialised design."_ A good resource for an intro to inclusive design and some case studies in tech.
+![Text](https://img.shields.io/badge/Text-blue)
+![Free](https://img.shields.io/badge/Free-yellow)
+
+
++ [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy by Cathy O'Neil](https://www.penguin.co.uk/books/304513/weapons-of-math-destruction-by-oneil-cathy/9780141985411) _"Tracing the arc of a person's life, Cathy O'Neil exposes the black box models that shape our future as individuals and as a society. These "weapons of math destruction" score teachers and students, sort CVs, grant or deny loans, evaluate workers, target voters and monitor our health."_
+![Text](https://img.shields.io/badge/Text-blue)
+![Audio](https://img.shields.io/badge/Audio-brightgreen)
+![Paid](https://img.shields.io/badge/Paid-orange)
+
+
++ [Mismatch: How Inclusion Shapes Design by Kat Holmes](https://mitpress.mit.edu/9780262539487/mismatch/) _"Sometimes designed objects reject their users: a computer mouse that doesn't work for left-handed people, for example, or a touchscreen payment system that only works for people who read English phrases, have 20/20 vision, and use a credit card."_
+![Text](https://img.shields.io/badge/Text-blue)
+![Audio](https://img.shields.io/badge/Audio-brightgreen)
+![Paid](https://img.shields.io/badge/Paid-orange)
+
+
++ [Hello World: How to Be Human in the Age of the Machine by Hannah Fry](https://hannahfry.co.uk/book/hello-world/) _"It’s a book about how we’ve slowly handed over control to computers – how there are algorithms and artificial intelligence hiding behind almost every aspect of our modern lives – and what that means for our society."_
+![Text](https://img.shields.io/badge/Text-blue)
+![Audio](https://img.shields.io/badge/Audio-brightgreen)
+![Paid](https://img.shields.io/badge/Paid-orange)
+
+
++ Awaiting more contributions!
+
+
 ### Creative Technologies
-+ Currently awaiting contributions!
-### User-Centred Design
-+ Currently awaiting contributions!
++ [Unreal Engine by Epic Games](https://dev.epicgames.com/community/unreal-engine/getting-started/games) Epic Games' online library of short to long form tutorials are extremely thorough and high quality, often right up-to-date with the latest engine versions and releases. The "Getting Started" page offers Games, Film & TV, Architecture and Visualization as initial learning pathways.
+![Text](https://img.shields.io/badge/Text-blue)
+![Video](https://img.shields.io/badge/Video-red) 
+![Free](https://img.shields.io/badge/Free-yellow)
+
+
+[Unity](https://learn.unity.com/) Another popular commerical game engine. Has "learning paths" for those interested in diving straight into 3D game and asset creation.
+![Text](https://img.shields.io/badge/Text-blue)
+![Video](https://img.shields.io/badge/Video-red) 
+![Free](https://img.shields.io/badge/Free-yellow)
+![Paid](https://img.shields.io/badge/Paid-orange)
+
+[GODOT: Your free, open‑source game engine](https://godotengine.org/) A very popular alternative to commercial game engines. Large community of contributors, however, lacks some of the polished tutorials and learning platforms offered by others. Does have a large volume of unofficial YouTube video playlists available.
+![Text](https://img.shields.io/badge/Text-blue)
+![Video](https://img.shields.io/badge/Video-red) 
+![Free](https://img.shields.io/badge/Free-yellow)
+
++ Currently more contributions!
+
++ 
