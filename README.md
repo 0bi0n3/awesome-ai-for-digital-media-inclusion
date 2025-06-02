@@ -75,7 +75,7 @@ If you find this repository useful, please give it a star 👉 ⭐
 ![Free](https://img.shields.io/badge/Free-yellow)
 
 
-[PyTorch Tutorials](https://docs.pytorch.org/tutorials/) PyTorch is the main framework used for AI/ML in research. The official tutorial series is good and worth spending the time going through once you've done some basic Python practice. Check out the YouTube playlist aswell! This resource is both in the ML and Programming resource lists in this repo.
++ [PyTorch Tutorials](https://docs.pytorch.org/tutorials/) PyTorch is the main framework used for AI/ML in research. The official tutorial series is good and worth spending the time going through once you've done some basic Python practice. Check out the YouTube playlist aswell! This resource is both in the ML and Programming resource lists in this repo.
 ![Video](https://img.shields.io/badge/Video-red)
 ![Text](https://img.shields.io/badge/Text-blue)
 ![Free](https://img.shields.io/badge/Free-yellow)
@@ -137,7 +137,7 @@ If you find this repository useful, please give it a star 👉 ⭐
 ![Paid](https://img.shields.io/badge/Paid-orange)
 
 
-[PyTorch Tutorials](https://docs.pytorch.org/tutorials/) PyTorch is the main framework used for AI/ML in research. The official tutorial series is good and worth spending the time going through once you've done some basic Python practice. Check out the YouTube playlist aswell! This resource is both in the ML and Programming resource lists in this repo.
++ [PyTorch Tutorials](https://docs.pytorch.org/tutorials/) PyTorch is the main framework used for AI/ML in research. The official tutorial series is good and worth spending the time going through once you've done some basic Python practice. Check out the YouTube playlist aswell! This resource is both in the ML and Programming resource lists in this repo.
 ![Video](https://img.shields.io/badge/Video-red)
 ![Text](https://img.shields.io/badge/Text-blue)
 ![Free](https://img.shields.io/badge/Free-yellow)
