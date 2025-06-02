@@ -1,7 +1,7 @@
-# Awesome AI for Digital Media Inclusion!
+# Welcome to the Awesome AI for Digital Media Inclusion List!
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
-📖 A curated list of resources dedicated to the CDT in AI for Digital Media Inclusion by PhD researchers from the programme (https://www.surrey.ac.uk/artificial-intelligence/cdt)
+📖 A curated list of resources dedicated to the CDT in AI for Digital Media Inclusion by PhD researchers from the programme (https://www.surrey.ac.uk/artificial-intelligence/cdt).
 
 
 <p align="center">
