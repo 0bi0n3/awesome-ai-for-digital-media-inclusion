@@ -82,6 +82,10 @@ If you find this repository useful, please give it a star 👉 ⭐
 
 + Awaiting more contributions!
 
+
+---
+
+
 ### AI and Machine Learning
 + [Artificial Intelligence by CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b) A very simple and basic-level introduction to AI (explain it to my like I'm six). If you've not really dived into AI before, definitely watch this playlist!!!
 ![Video](https://img.shields.io/badge/Video-red)
@@ -142,6 +146,9 @@ If you find this repository useful, please give it a star 👉 ⭐
 + Awaiting more contributions!
 
 
+---
+
+
 ### Mathematics
 + [Khan Academy](https://www.khanacademy.org/) Regardless of your mathematical experience, Khan Academy is a renowned platform for its bitesize and easy to dip into way of teaching maths. Everything from basic addition up to linear algebra, vectors, matrices and advanced calculus. If you think you want to brush up some skills or learn for the first time, it's a definite bookmark. The mobile app is handy for practice on the go too!
 ![Video](https://img.shields.io/badge/Video-red) 
@@ -167,6 +174,9 @@ If you find this repository useful, please give it a star 👉 ⭐
 
 
 + Awaiting more contributions!
+
+
+---
 
 
 ### Inclusive Foundations
@@ -196,6 +206,9 @@ If you find this repository useful, please give it a star 👉 ⭐
 + Awaiting more contributions!
 
 
+---
+
+
 ### Creative Technologies
 + [Unreal Engine by Epic Games](https://dev.epicgames.com/community/unreal-engine/getting-started/games) Epic Games' online library of short to long form tutorials are extremely thorough and high quality, often right up-to-date with the latest engine versions and releases. The "Getting Started" page offers Games, Film & TV, Architecture and Visualization as initial learning pathways.
 ![Text](https://img.shields.io/badge/Text-blue)
@@ -203,17 +216,17 @@ If you find this repository useful, please give it a star 👉 ⭐
 ![Free](https://img.shields.io/badge/Free-yellow)
 
 
-[Unity](https://learn.unity.com/) Another popular commerical game engine. Has "learning paths" for those interested in diving straight into 3D game and asset creation.
++ [Unity](https://learn.unity.com/) Another popular commerical game engine. Has "learning paths" for those interested in diving straight into 3D game and asset creation.
 ![Text](https://img.shields.io/badge/Text-blue)
 ![Video](https://img.shields.io/badge/Video-red) 
 ![Free](https://img.shields.io/badge/Free-yellow)
 ![Paid](https://img.shields.io/badge/Paid-orange)
 
-[GODOT: Your free, open‑source game engine](https://godotengine.org/) A very popular alternative to commercial game engines. Large community of contributors, however, lacks some of the polished tutorials and learning platforms offered by others. Does have a large volume of unofficial YouTube video playlists available.
++ [GODOT: Your free, open‑source game engine](https://godotengine.org/) A very popular alternative to commercial game engines. Large community of contributors, however, lacks some of the polished tutorials and learning platforms offered by others. Does have a large volume of unofficial YouTube video playlists available.
 ![Text](https://img.shields.io/badge/Text-blue)
 ![Video](https://img.shields.io/badge/Video-red) 
 ![Free](https://img.shields.io/badge/Free-yellow)
 
-+ Currently more contributions!
++ Awaiting more contributions!
 
-+ 
+---
