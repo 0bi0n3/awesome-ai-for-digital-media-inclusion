@@ -41,7 +41,7 @@ If you find this repository useful, please give it a star 👉 ⭐
 
 ## Contents
 - [Fundamentals](#fundamentals)
-    - [Programming](#programming)
+    - [Programming and Data](#programming-and-data)
     - [AI and Machine Learning](#ai-and-machine-learning)
     - [Inclusive Foundations](#inclusive-foundations)
     - [Creative Technologies](#creative-technologies)
@@ -58,11 +58,13 @@ If you find this repository useful, please give it a star 👉 ⭐
 - Awaiting contributions!
 - [Projects](#projects)
 - Awaiting contributions!
+- [Podcasts and News Feeds](#podcasts-and-news-feeds)
+- Awaiting contributions!
 
 ---
 
 ## Fundamentals
-### Programming
+### Programming and Data
 + [CS50: Computer Science Courses and Programs from Harvard](https://www.edx.org/cs50) If you have never programmed before, are new to computer science, or just want something to go back to the absolute basics, this is the online course for it. Hugely famous amongst the online CS community and majority of the videos are freely available both on the platform and also YouTube. The interactive practice sessions are also (usually) free, but certification is not.
 ![Video](https://img.shields.io/badge/Video-red)
 ![Paid](https://img.shields.io/badge/Paid-orange)
@@ -230,11 +232,30 @@ If you find this repository useful, please give it a star 👉 ⭐
 ![Free](https://img.shields.io/badge/Free-yellow)
 ![Paid](https://img.shields.io/badge/Paid-orange)
 
+
 + [GODOT: Your free, open‑source game engine](https://godotengine.org/) A very popular alternative to commercial game engines. Large community of contributors, however, lacks some of the polished tutorials and learning platforms offered by others. Does have a large volume of unofficial YouTube video playlists available.
 ![Text](https://img.shields.io/badge/Text-blue)
 ![Video](https://img.shields.io/badge/Video-red) 
 ![Free](https://img.shields.io/badge/Free-yellow)
 
+
++ [Blender](https://www.blender.org/) _"Blender is a free and open-source 3D computer graphics software tool set that runs on Windows, macOS, BSD, Haiku, IRIX and Linux. It is used for creating animated films, visual effects, art, 3D-printed models, motion graphics, interactive 3D applications, and virtual reality. It is also used in creating video games."_
+![Text](https://img.shields.io/badge/Text-blue)
+![Video](https://img.shields.io/badge/Video-red) 
+![Free](https://img.shields.io/badge/Free-yellow)
+
+
++ [TouchDesigner](https://derivative.ca/) "TouchDesigner is a node-based visual programming language for real-time interactive multimedia content. Developed by the Toronto-based company "Derivative," it's often used by artists, programmers, creative coders, software designers, and performers to create performances, installations, and fixed media works." It has a paid/premium tier but also a free version available for personal and educational use, with some limitations.
+![Text](https://img.shields.io/badge/Text-blue)
+![Video](https://img.shields.io/badge/Video-red) 
+![Free](https://img.shields.io/badge/Free-yellow)
+![Paid](https://img.shields.io/badge/Paid-orange)
+
 + Awaiting more contributions!
+
+---
+
+### PhD-Level Research
++ Awaiting contributions!
 
 ---
