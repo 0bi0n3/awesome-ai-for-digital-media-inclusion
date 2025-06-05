@@ -351,7 +351,7 @@ How to do it yourself - build your own generative 3D demo"_ To get the most out 
 ![Audio](https://img.shields.io/badge/Audio-brightgreen)
 ![Free](https://img.shields.io/badge/Free-yellow)
 
-+[Machine Learning Guide/Applied](https://ocdevel.com/mlg) _"MLG is a machine learning podcast teaching the fundamentals of machine learning and artificial intelligence. It covers intuition, models, neural networks, math, languages, frameworks, and more. Podcasts are a great supplement during exercise, commute, chores, etc. The resources section provides a syllabus for machine learning videos, courses, books, and audio."_
++ [Machine Learning Guide/Applied](https://ocdevel.com/mlg) _"MLG is a machine learning podcast teaching the fundamentals of machine learning and artificial intelligence. It covers intuition, models, neural networks, math, languages, frameworks, and more. Podcasts are a great supplement during exercise, commute, chores, etc. The resources section provides a syllabus for machine learning videos, courses, books, and audio."_
 ![Audio](https://img.shields.io/badge/Audio-brightgreen)
 ![Free](https://img.shields.io/badge/Free-yellow)
 
@@ -363,7 +363,13 @@ How to do it yourself - build your own generative 3D demo"_ To get the most out 
 ---
 
 ### Newsfeeds
-[The Batch: by Andrew Ng](https://www.deeplearning.ai/the-batch/)
++ [The Batch: by Andrew Ng](https://www.deeplearning.ai/the-batch/) A very good weekly write up from Andrew Ng on some of the latest trends and interesting AI papers. Written in a very accessible way.
+![Text](https://img.shields.io/badge/Text-blue)
+![Free](https://img.shields.io/badge/Free-yellow)
+
++ [HuggingFace Daily Papers](https://huggingface.co/papers) _"Get trending papers in your email inbox once a day!"_
+![Text](https://img.shields.io/badge/Text-blue)
+![Free](https://img.shields.io/badge/Free-yellow)
 
 + Awaiting contributions!
   
