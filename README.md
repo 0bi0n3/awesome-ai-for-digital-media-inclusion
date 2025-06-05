@@ -371,6 +371,10 @@ How to do it yourself - build your own generative 3D demo"_ To get the most out 
 ![Text](https://img.shields.io/badge/Text-blue)
 ![Free](https://img.shields.io/badge/Free-yellow)
 
++ [Towards Data Science: The Variable](https://towardsdatascience.com/) Independent writers in data science and machine learning author lots of intro to advance artricles.
+![Text](https://img.shields.io/badge/Text-blue)
+![Free](https://img.shields.io/badge/Free-yellow)
+
 + Awaiting contributions!
   
 ---
