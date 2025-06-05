@@ -344,7 +344,7 @@ How to do it yourself - build your own generative 3D demo"_ To get the most out 
   
 ---
 
-## Podcasts and News Feeds](#podcasts-and-news-feeds)
+## Podcasts and News Feeds
 ### Podcasts
 + [Machine Learning Street Talk (MLST)](https://www.mlst.ai/) A media production company making video, audio and written content about machine learning, cognitive science and cognitive philosophy. The podcast is the highest-rated technical AI podcast on Spotify and is renowned on YouTube as well: https://www.youtube.com/@MachineLearningStreetTalk
 ![Video](https://img.shields.io/badge/Video-red)
