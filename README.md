@@ -50,7 +50,7 @@ If you find this repository useful, please give it a star 👉 ⭐
 - Awaiting contributions!
 - [Inclusion](#inclusion)
 - Awaiting contributions!
-- [Digital Media](#digital-media)
+- [Podcasts and News Feeds](#podcasts-and-news-feeds)
 - Awaiting contributions!
 - [Research Papers](#research-papers)
 - Awaiting contributions!
@@ -58,8 +58,7 @@ If you find this repository useful, please give it a star 👉 ⭐
 - Awaiting contributions!
 - [Projects](#projects)
 - Awaiting contributions!
-- [Podcasts and News Feeds](#podcasts-and-news-feeds)
-- Awaiting contributions!
+
 
 ---
 
@@ -334,3 +333,54 @@ How to do it yourself - build your own generative 3D demo"_ To get the most out 
 + Awaiting contributions!
 
 ---
+
+## Research Methods
++ Awaiting contributions!
+  
+---
+
+## Inclusion
++ Awaiting contributions!
+  
+---
+
+## Podcasts and News Feeds](#podcasts-and-news-feeds)
+### Podcasts
++ [Machine Learning Street Talk (MLST)](https://www.mlst.ai/) A media production company making video, audio and written content about machine learning, cognitive science and cognitive philosophy. The podcast is the highest-rated technical AI podcast on Spotify and is renowned on YouTube as well: https://www.youtube.com/@MachineLearningStreetTalk
+![Video](https://img.shields.io/badge/Video-red)
+![Audio](https://img.shields.io/badge/Audio-brightgreen)
+![Free](https://img.shields.io/badge/Free-yellow)
+
++[Machine Learning Guide/Applied](https://ocdevel.com/mlg) _"MLG is a machine learning podcast teaching the fundamentals of machine learning and artificial intelligence. It covers intuition, models, neural networks, math, languages, frameworks, and more. Podcasts are a great supplement during exercise, commute, chores, etc. The resources section provides a syllabus for machine learning videos, courses, books, and audio."_
+![Audio](https://img.shields.io/badge/Audio-brightgreen)
+![Free](https://img.shields.io/badge/Free-yellow)
+
++ [The AI Daily Brief](https://aidailybrief.beehiiv.com/) _The most important news and discussions in AI"_ A great snippet and short form up-to-date resource on big AI trends.
+![Video](https://img.shields.io/badge/Video-red)
+![Audio](https://img.shields.io/badge/Audio-brightgreen)
+![Free](https://img.shields.io/badge/Free-yellow)
+
+---
+
+### Newsfeeds
+[The Batch: by Andrew Ng](https://www.deeplearning.ai/the-batch/)
+
++ Awaiting contributions!
+  
+---
+
+## Research Papers
++ Awaiting contributions!
+  
+---
+
+## Benchmarks
++ Awaiting contributions!
+  
+---
+
+## Projects
++ Awaiting contributions!
+  
+---
+
