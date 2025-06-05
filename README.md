@@ -152,6 +152,74 @@ If you find this repository useful, please give it a star 👉 ⭐
 ![Text](https://img.shields.io/badge/Text-blue)
 ![Free](https://img.shields.io/badge/Free-yellow)
 
++ [🤗 HuggingFace: LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) _"This course will teach you about large language models (LLMs) and natural language processing (NLP) using libraries from the Hugging Face ecosystem — 🤗 Transformers, 🤗 Datasets, 🤗 Tokenizers, and 🤗 Accelerate — as well as the Hugging Face Hub."_ To get the most out of the HuggingFace courses, its usually best to have some of the basics of ML and Python programming experience.
+![Video](https://img.shields.io/badge/Video-red)
+![Text](https://img.shields.io/badge/Text-blue)
+![Free](https://img.shields.io/badge/Free-yellow)
+
++ [🤗 HuggingFace: Model Context Protocol (MCP) Course](https://huggingface.co/learn/mcp-course/unit0/introduction) _"This free course will take you on a journey, from beginner to informed, in understanding, using, and building applications with MCP."_ To get the most out of the HuggingFace courses, its usually best to have some of the basics of ML and Python programming experience.
+![Video](https://img.shields.io/badge/Video-red)
+![Text](https://img.shields.io/badge/Text-blue)
+![Free](https://img.shields.io/badge/Free-yellow)
+
++ [🤗 HuggingFace: AI Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) 
+_"📖 Study AI Agents in theory, design, and practice.
+🧑‍💻 Learn to use established AI Agent libraries such as smolagents, LlamaIndex, and LangGraph.
+💾 Share your agents on the Hugging Face Hub and explore agents created by the community.
+🏆 Participate in challenges where you will evaluate your agents against other students’.
+🎓 Earn a certificate of completion by completing assignments."_ To get the most out of the HuggingFace courses, its usually best to have some of the basics of ML and Python programming experience.
+![Video](https://img.shields.io/badge/Video-red)
+![Text](https://img.shields.io/badge/Text-blue)
+![Free](https://img.shields.io/badge/Free-yellow)
+
++ [🤗 HuggingFace: Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction) _"📖 Study Deep Reinforcement Learning in theory and practice.
+🧑‍💻 Learn to use famous Deep RL libraries such as Stable Baselines3, RL Baselines3 Zoo, Sample Factory and CleanRL.
+🤖 Train agents in unique environments such as SnowballFight, Huggy the Doggo 🐶, VizDoom (Doom) and classical ones such as Space Invaders, PyBullet and more.
+💾 Share your trained agents with one line of code to the Hub and also download powerful agents from the community.
+🏆 Participate in challenges where you will evaluate your agents against other teams. You’ll also get to play against the agents you’ll train.
+🎓 Earn a certificate of completion by completing 80% of the assignments."_ To get the most out of the HuggingFace courses, its usually best to have some of the basics of ML and Python programming experience.
+![Video](https://img.shields.io/badge/Video-red)
+![Text](https://img.shields.io/badge/Text-blue)
+![Free](https://img.shields.io/badge/Free-yellow)
+ 
++ [🤗 HuggingFace: Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome) _"Computer vision is revolutionizing our world in many ways, from unlocking phones with facial recognition to analyzing medical images for disease detection, monitoring wildlife, and creating new images."_ To get the most out of the HuggingFace courses, its usually best to have some of the basics of ML and Python programming experience.
+![Video](https://img.shields.io/badge/Video-red)
+![Text](https://img.shields.io/badge/Text-blue)
+![Free](https://img.shields.io/badge/Free-yellow)
+
++ [🤗 HuggingFace: Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction) _"Time and again transformers have proven themselves as one of the most powerful and versatile deep learning architectures, capable of achieving state-of-the-art results in a wide range of tasks, including natural language processing, computer vision, and more recently, audio processing."_ To get the most out of the HuggingFace courses, its usually best to have some of the basics of ML and Python programming experience.
+![Video](https://img.shields.io/badge/Video-red)
+![Text](https://img.shields.io/badge/Text-blue)
+![Free](https://img.shields.io/badge/Free-yellow)
+
++ [🤗 HuggingFace: Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/index) _"The Open-Source AI Cookbook is a collection of notebooks illustrating practical aspects of building AI applications and solving various machine learning tasks using open-source tools and models."_ To get the most out of the HuggingFace courses, its usually best to have some of the basics of ML and Python programming experience.
+![Video](https://img.shields.io/badge/Video-red)
+![Text](https://img.shields.io/badge/Text-blue)
+![Free](https://img.shields.io/badge/Free-yellow)
+
++ [🤗 HuggingFace: Machine Learning for Games Course](https://huggingface.co/learn/ml-games-course/unit0/introduction) _"the course that will teach you the most fascinating topic in game development: how to use powerful AI tools and models to create unique game experiences."_ To get the most out of the HuggingFace courses, its usually best to have some of the basics of ML and Python programming experience.
+![Video](https://img.shields.io/badge/Video-red)
+![Text](https://img.shields.io/badge/Text-blue)
+![Free](https://img.shields.io/badge/Free-yellow)
+
++ [🤗 HuggingFace: Diffusion Models Course](https://huggingface.co/learn/diffusion-course/unit0/1) _"👩‍🎓 Study the theory behind diffusion models
+🧨 Learn how to generate images and audio with the popular 🤗 Diffusers library
+🏋️‍♂️ Train your own diffusion models from scratch
+📻 Fine-tune existing diffusion models on new datasets
+🗺 Explore conditional generation and guidance
+🧑‍🔬 Create your own custom diffusion model pipelines"_ To get the most out of the HuggingFace courses, its usually best to have some of the basics of ML and Python programming experience.
+![Video](https://img.shields.io/badge/Video-red)
+![Text](https://img.shields.io/badge/Text-blue)
+![Free](https://img.shields.io/badge/Free-yellow)
+
++ [🤗 HuggingFace: Machine Learning for 3D Course](https://huggingface.co/learn/ml-for-3d-course/unit0/introduction) _"In this course, you’ll learn:
+What’s going on - the current big picture of machine learning for 3D
+Why it matters - the importance of recent developments
+How to do it yourself - build your own generative 3D demo"_ To get the most out of the HuggingFace courses, its usually best to have some of the basics of ML and Python programming experience.
+![Video](https://img.shields.io/badge/Video-red)
+![Text](https://img.shields.io/badge/Text-blue)
+![Free](https://img.shields.io/badge/Free-yellow)
+
 
 + Awaiting more contributions!
 
