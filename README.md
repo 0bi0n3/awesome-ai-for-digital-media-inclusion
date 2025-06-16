@@ -96,7 +96,7 @@ If you find this repository useful, please give it a star 👉 ⭐
 ![Text](https://img.shields.io/badge/Text-blue)
 ![Free](https://img.shields.io/badge/Free-yellow)
 
-+[Anaconda Beginners Guide for Linux, Mac and Windows - Python Working Environments Tutorial](https://www.youtube.com/watch?v=MUZtVEDKXsk&ab_channel=PythonSimplified) Anaconda (aka Conda) is a virtual environment management toolkit. When programming in Python, especially with complex AI/ML systems, you often need to draw on lots of libraries (packages) which makes your program run. But this also means your program is dependent on these libraries being present and this varies for each type of model. Virtual environments is a way of managing these virtual environments and is essential to understand in order to make things easier for you!
++ [Anaconda Beginners Guide for Linux, Mac and Windows - Python Working Environments Tutorial](https://www.youtube.com/watch?v=MUZtVEDKXsk&ab_channel=PythonSimplified) Anaconda (aka Conda) is a virtual environment management toolkit. When programming in Python, especially with complex AI/ML systems, you often need to draw on lots of libraries (packages) which makes your program run. But this also means your program is dependent on these libraries being present and this varies for each type of model. Virtual environments is a way of managing these virtual environments and is essential to understand in order to make things easier for you!
 ![Video](https://img.shields.io/badge/Video-red)
 ![Free](https://img.shields.io/badge/Free-yellow)
 
@@ -104,7 +104,7 @@ If you find this repository useful, please give it a star 👉 ⭐
 ![Text](https://img.shields.io/badge/Text-blue)
 ![Free](https://img.shields.io/badge/Free-yellow)
 
-+[Getting started with conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html) _"Conda is a powerful command line tool for package and environment management that runs on Windows, macOS, and Linux. This guide to getting started with conda goes over the basics of starting up and using conda to create environments and install packages."_
++ [Getting started with conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html) _"Conda is a powerful command line tool for package and environment management that runs on Windows, macOS, and Linux. This guide to getting started with conda goes over the basics of starting up and using conda to create environments and install packages."_
 ![Text](https://img.shields.io/badge/Text-blue)
 ![Free](https://img.shields.io/badge/Free-yellow)
 
