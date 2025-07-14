@@ -141,6 +141,14 @@ If you find this repository useful, please give it a star 👉 ⭐
 ![Audio](https://img.shields.io/badge/Audio-brightgreen)
 ![Free](https://img.shields.io/badge/Free-yellow)
 
++ [Practical Deep Learning for Coders](https://course.fast.ai/) _"A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems."_ Recommended that you do some Python practice before this but you don't have to be a "programmer" to work your way through it.
+![Text](https://img.shields.io/badge/Text-blue)
+![Video](https://img.shields.io/badge/Video-red)
+![Free](https://img.shields.io/badge/Free-yellow)
+
++ [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://fastai.github.io/fastbook2e/) The accompanying book that goes with the fast.ai course above. Recommended that you do some Python practice before this but you don't have to be a "programmer" to work your way through it. The eBook version is free online or you can order a physical copy.
+![Text](https://img.shields.io/badge/Text-blue) 
+![Free](https://img.shields.io/badge/Free-yellow)
 
 + [Machine Learning Specialisation by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction) The "famous" course series by Andrew Ng. The video content is free to access but the programming practice labs in Python you have to pay for.
 ![Text](https://img.shields.io/badge/Text-blue)
