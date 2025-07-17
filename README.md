@@ -69,12 +69,22 @@ If you find this repository useful, please give it a star 👉 ⭐
 ![Paid](https://img.shields.io/badge/Paid-orange)
 ![Free](https://img.shields.io/badge/Free-yellow)
 
-
 + [HyperSkill](https://hyperskill.org/courses) An interactive programming platform with practice streaks, online code editor and mobile app. Good for on the go practice and has Python and AI specific learning paths. Has a premium version but at the time of writing the free tier is more than adequate to get basic programming skill practice.
 ![Text](https://img.shields.io/badge/Text-blue)
 ![Paid](https://img.shields.io/badge/Paid-orange)
 ![Free](https://img.shields.io/badge/Free-yellow)
 
++ [NumPy](https://numpy.org/learn/) NumPy is a mathematical package in Python which is at the core of many machine learning and AI models as it makes handling arrays, matrices and other forms of data far easier. It's usually an immediate first step after basics of Python. Don't delay on working through some of the beginner sessions that suit you best.
+![Text](https://img.shields.io/badge/Text-blue)
+![Free](https://img.shields.io/badge/Free-yellow)
+
++ [pandas](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) pandas is a fundamental Python package for handling data structures. It's one of the most common used in ML for handling and analysing data. Learning the basic syntax of Python is always your first step, but after a while, you need to start doing some data handling before you start getting stuck with AI models. This is a short but good enough intro to get you familiar with the package.
+![Text](https://img.shields.io/badge/Text-blue)
+![Free](https://img.shields.io/badge/Free-yellow)
+
++ [Scikit-learn Crash Course - Machine Learning Library for Python](https://www.youtube.com/watch?v=0B5eIE_1vpU&ab_channel=freeCodeCamp.org) Scikit-Learn is a powerful machine learning library for Python that supports both supervised and unsupervised learning algorithms. It's a _really_ good starting point to start observing and learning about feeding data into basic ML algorithms and seeing some basic results - it will put a lot of things into context when reading papers, books, and doing course on ML/AI.
+![Video](https://img.shields.io/badge/Video-red)
+![Free](https://img.shields.io/badge/Free-yellow)
 
 + [PyTorch Tutorials](https://docs.pytorch.org/tutorials/) PyTorch is the main framework used for AI/ML in research. The official tutorial series is good and worth spending the time going through once you've done some basic Python practice. Check out the YouTube playlist aswell! This resource is both in the ML and Programming resource lists in this repo.
 ![Video](https://img.shields.io/badge/Video-red)
