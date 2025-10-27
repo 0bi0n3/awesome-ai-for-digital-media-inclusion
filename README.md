@@ -33,7 +33,7 @@ If you find this repository useful, please give it a star 👉 ⭐
 - [Research Methods](#research-methods)
 - [Inclusion](#inclusion)
 - [Digital Media](#digital-media)
-- [Research Papers](#research-papers)
+- [Research](#research)
 - [Benchmarks](#benchmarks)
 - [Projects](#projects)
 
@@ -46,16 +46,22 @@ If you find this repository useful, please give it a star 👉 ⭐
     - [Inclusive Foundations](#inclusive-foundations)
     - [Creative Technologies](#creative-technologies)
     - [PhD-Level Research](#phd-level-research)
+      
 - [Research Methods](#research-methods)
 - Awaiting contributions!
+  
 - [Inclusion](#inclusion)
 - Awaiting contributions!
+  
 - [Podcasts and News Feeds](#podcasts-and-news-feeds)
 - Awaiting contributions!
-- [Research Papers](#research-papers)
-- Awaiting contributions!
+  
+- [Research](#research)
+    - [Whitepapers](#whitepapers)
+
 - [Benchmarks](#benchmarks)
 - Awaiting contributions!
+  
 - [Projects](#projects)
 - Awaiting contributions!
 
