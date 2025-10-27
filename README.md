@@ -411,7 +411,7 @@ How to do it yourself - build your own generative 3D demo"_ To get the most out 
 
 ## Research
 ### Whitepapers
-+ [](https://www.turing.ac.uk/news/publications/doing-ai-differently) _"This white paper presents a research vision that positions interpretive depth as essential to building AI systems capable of engaging meaningfully with cultural complexity – while recognising that no technical solution alone can resolve the challenges these systems face in diverse human contexts."_
++ [The Alan Turing Institute: Doing AI differently](https://www.turing.ac.uk/news/publications/doing-ai-differently) _"This white paper presents a research vision that positions interpretive depth as essential to building AI systems capable of engaging meaningfully with cultural complexity – while recognising that no technical solution alone can resolve the challenges these systems face in diverse human contexts."_
 ![Text](https://img.shields.io/badge/Text-blue)
 ![Free](https://img.shields.io/badge/Free-yellow)
 
