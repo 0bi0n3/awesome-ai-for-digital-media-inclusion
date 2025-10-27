@@ -75,6 +75,10 @@ If you find this repository useful, please give it a star 👉 ⭐
 ![Paid](https://img.shields.io/badge/Paid-orange)
 ![Free](https://img.shields.io/badge/Free-yellow)
 
++ [Think Python 🐍](https://allendowney.github.io/ThinkPython/index.html) An excellent introduction (or refresher) to programming in Python and thinking like a computer scientist. Uses Jupyter Notebooks as the main method of stepping through code and has some of the best explanations around. Additionally, there are plenty of exercises and it also teaches you _how and when_ to use a "virtual assistant", or LLM, to help you code.
++ ![Free](https://img.shields.io/badge/Free-yellow)
++ ![Text](https://img.shields.io/badge/Text-blue)
+
 + [HyperSkill](https://hyperskill.org/courses) An interactive programming platform with practice streaks, online code editor and mobile app. Good for on the go practice and has Python and AI specific learning paths. Has a premium version but at the time of writing the free tier is more than adequate to get basic programming skill practice.
 ![Text](https://img.shields.io/badge/Text-blue)
 ![Paid](https://img.shields.io/badge/Paid-orange)
