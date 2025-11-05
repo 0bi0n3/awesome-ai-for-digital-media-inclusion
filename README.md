@@ -279,7 +279,7 @@ How to do it yourself - build your own generative 3D demo"_ To get the most out 
 ![Free](https://img.shields.io/badge/Free-yellow)
 
 
-+ [Why Machines Learn by Anil Ananthaswamy: The Elegant Maths Behind Modern AI](https://www.penguin.co.uk/books/446849/why-machines-learn-by-ananthaswamy-anil/9780241586488) An amazing book which explains the how and why behind machine learning mathematics. It builds up knowledge from the ground up, not requiring a huge amount of priro mathematical experience. The information is provided both with compelling visuals and also some storytelling behind the resultant maths in ML.
++ ⭐ [Why Machines Learn by Anil Ananthaswamy: The Elegant Maths Behind Modern AI](https://www.penguin.co.uk/books/446849/why-machines-learn-by-ananthaswamy-anil/9780241586488) An amazing book which explains the how and why behind machine learning mathematics. It builds up knowledge from the ground up, not requiring a huge amount of priro mathematical experience. The information is provided both with compelling visuals and also some storytelling behind the resultant maths in ML.
 ![Text](https://img.shields.io/badge/Text-blue)
 ![Audio](https://img.shields.io/badge/Audio-brightgreen)
 ![Paid](https://img.shields.io/badge/Paid-orange)
