@@ -266,6 +266,10 @@ How to do it yourself - build your own generative 3D demo"_ To get the most out 
 ![Text](https://img.shields.io/badge/Text-blue)
 ![Free](https://img.shields.io/badge/Free-yellow)
 
++ [3Blue1Brown](https://en.wikipedia.org/wiki/3Blue1Brown) YouTube channel that gives great overviews of common ML techniques in an easy to follow way. Appears to be a podcast too...
+![Video](https://img.shields.io/badge/Video-red)
+![Audio](https://img.shields.io/badge/Audio-brightgreen)
+![Free](https://img.shields.io/badge/Free-yellow)
 
 + Awaiting more contributions!
 
