@@ -440,6 +440,7 @@ How to do it yourself - build your own generative 3D demo"_ To get the most out 
 ---
 
 ## Projects
++ [BRAID](https://braiduk.org/) _"Embedding Arts and Humanities research into the responsible AI ecosystem", "BRAID works to bridge the divides between academic, industry, policy and regulatory work on responsible AI.". Interesting multi-displinary programme, with involvement from Royal Holloway.
 + Awaiting contributions!
   
 ---
