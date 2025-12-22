@@ -266,7 +266,7 @@ How to do it yourself - build your own generative 3D demo"_ To get the most out 
 ![Text](https://img.shields.io/badge/Text-blue)
 ![Free](https://img.shields.io/badge/Free-yellow)
 
-+ [3Blue1Brown](https://en.wikipedia.org/wiki/3Blue1Brown) YouTube channel that gives great overviews of common ML techniques in an easy to follow way. Appears to be a podcast too...
++ [3Blue1Brown](https://en.wikipedia.org/wiki/3Blue1Brown) YouTube channel that mainly covers maths (see below), but also gives some great overviews of common ML techniques in an easy to follow way. Mainly a YouTube channel, but the audio is available on Spotify.
 ![Video](https://img.shields.io/badge/Video-red)
 ![Audio](https://img.shields.io/badge/Audio-brightgreen)
 ![Free](https://img.shields.io/badge/Free-yellow)
@@ -288,6 +288,10 @@ How to do it yourself - build your own generative 3D demo"_ To get the most out 
 ![Audio](https://img.shields.io/badge/Audio-brightgreen)
 ![Paid](https://img.shields.io/badge/Paid-orange)
 
++ [3Blue1Brown](https://en.wikipedia.org/wiki/3Blue1Brown) YouTube channel that gives visual overviews of popular mathmatics topics (as well as some ML stuff, see above!) many of which are relevant to ML e.g. vectors, calculus... Mainly a YouTube channel, but the audio is available on Spotify.
+![Video](https://img.shields.io/badge/Video-red)
+![Audio](https://img.shields.io/badge/Audio-brightgreen)
+![Free](https://img.shields.io/badge/Free-yellow)
 
 + [Calculus Made Easy by Silvanus Thompson](https://calculusmadeeasy.org/) Alternative approach and methodology of thinking about calculus. Very good worked examples and visualisations of mathematics. Not all examples relevant to AI/ML but still helpful. Digital version free.
 ![Text](https://img.shields.io/badge/Text-blue)
@@ -416,6 +420,10 @@ How to do it yourself - build your own generative 3D demo"_ To get the most out 
 ![Free](https://img.shields.io/badge/Free-yellow)
 
 + [Towards Data Science: The Variable](https://towardsdatascience.com/) Independent writers in data science and machine learning author lots of intro to advance artricles.
+![Text](https://img.shields.io/badge/Text-blue)
+![Free](https://img.shields.io/badge/Free-yellow)
+
++ [Marcus on AI](https://garymarcus.substack.com/) Interesting and accessible blog on AI by Gary Marcus, self-styled AI cynic. Occationally a bit polemic, but always interesting.
 ![Text](https://img.shields.io/badge/Text-blue)
 ![Free](https://img.shields.io/badge/Free-yellow)
 
